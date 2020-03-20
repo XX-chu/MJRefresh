@@ -1,0 +1,17 @@
+
+"MJRefreshHeaderIdleText" = "پایین تر کشیدن می تازه کردن";
+"MJRefreshHeaderPullingText" = "رهایی بلافاثله تازه کردن";
+"MJRefreshHeaderRefreshingText" = "اپت تازه کردن اطلاعات به ...";
+
+"MJRefreshAutoFooterIdleText" = "کلیک کنید یا بر کشیدن بار بیتتر و بهتر";
+"MJRefreshAutoFooterRefreshingText" = "اپت بار ثپرثتءر اطلاعات ...";
+"MJRefreshAutoFooterNoMoreDataText" = "قبلا کامل بار کامل";
+
+"MJRefreshBackFooterIdleText" = "بر کشیدن می بار بیتتر و بهتر";
+"MJRefreshBackFooterPullingText" = "رهایی بلافاثله بار بیتتر و بهتر";
+"MJRefreshBackFooterRefreshingText" = "اپت بار ثپرثتءر اطلاعات ...";
+"MJRefreshBackFooterNoMoreDataText" = "قبلا کامل بار کامل";
+
+"MJRefreshHeaderLastTimeText" = "پرانجام بیتتر حلق ：";
+"MJRefreshHeaderDateTodayText" = "امروز";
+"MJRefreshHeaderNoneLastDateText" = "خیر رکورد";
